@@ -1,2 +1,6 @@
 creating a new branch is quick
-add new field & app
+<<<<<<< HEAD
+add new field and app
+=======
+add new field and app
+>>>>>>> fee
